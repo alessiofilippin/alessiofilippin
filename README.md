@@ -33,10 +33,3 @@ I'm most passionate about Cloud Tecnologies ☁️, Software Architecture 👷�
 <br />
 
 <hr/>
-
-<div align="center"> 
-<h3 align="center">Let's connect</h3>
-
-[!["LinkedIn"](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue)](https://www.linkedin.com/in/alessio-filippin-54989695/)
-
-</div>
