@@ -4,7 +4,7 @@
 <p align="center">
     <a href="mailto:alessio.filippin@gmail.com">Email</a>
     ·
-    <a href="https://www.linkedin.com/in/alessio-filippin-5498969">LinkedIn</a>
+    <a href="https://www.linkedin.com/in/alessio-filippin-54989695">LinkedIn</a>
 </p>
 <p align="center">
   <h4 align="center">DevOps/SRE Specialist from Italy</h4>
@@ -37,6 +37,6 @@ I'm most passionate about Cloud Tecnologies ☁️, Software Architecture 👷�
 <div align="center"> 
 <h3 align="center">Let's connect</h3>
 
-[!["LinkedIn"](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue)](https://www.linkedin.com/in/alessio-filippin-5498969)
+[!["LinkedIn"](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue)](https://www.linkedin.com/in/alessio-filippin-54989695/)
 
 </div>
