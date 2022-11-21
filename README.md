@@ -16,7 +16,6 @@ I'm most passionate about Cloud Tecnologies ☁️, Software Architecture 👷�
 
 - 🔭 I’m currently a Site Reliability Engineer at **[Ascent.io](https://www.ascent.io/)**.
 - 💬 Ask me about **Azure, Terraform, SRE, Any Nerd/Tech topic...**.
-- 😄 Pronouns: He/Him/His
 - ⚡ Fun fact: I love dogs but I live with 3 cats. 😅
 
 ### Links
