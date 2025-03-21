@@ -17,10 +17,13 @@ I'm most passionate about Cloud Tecnologies ☁️, Software Architecture 👷�
 - 🤠 Freelance, Tech Passionate, Nerd.
 - 🔭 I’m currently working as **DevOps Tech Leader** at **[FinconsGroup](https://www.finconsgroup.com/)**.
 - 💬 Ask me about **Azure, Terraform, SRE, Any Nerd/Tech topic...**.
-- ⚡ Fun fact: I love dogs but I live with 3 cats. 😅
 
 ### Links
 [**GitHub Projects**](https://github.com/alessiofilippin?tab=repositories) <br />Link to my GitHub's repositories. You might find something interesting there.
+<br />
+
+
+[**Microsoft Profile**](https://learn.microsoft.com/en-gb/users/alessiofilippin-9452/transcript/vneri62oll4lozv?source=docs&tab=credentials-tab) <br />List to my MS's Profile and Certifications.
 <br />
 
 [**Credly Profile**](https://www.credly.com/users/alessio-filippin.bd432726) <br />List of my Credly Certifications.
