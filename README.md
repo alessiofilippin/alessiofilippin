@@ -12,18 +12,18 @@
 
 <hr/>
 
-I'm most passionate about Cloud Tecnologies ☁️, Software Architecture 👷‍♀️, best practices 🧰, and automation 💻.
+I'm most passionate about Cloud Technologies ☁️, Software Architecture 👷‍♀️, best practices 🧰, and automation 💻.
 
 - 🤠 Freelance, Tech Passionate, Nerd.
-- 🔭 I’m currently working as **DevOps Tech Leader** at **[FinconsGroup](https://www.finconsgroup.com/)**.
-- 💬 Ask me about **Azure, Terraform, SRE, Any Nerd/Tech topic...**.
+- 🔭 I’m currently working as **DevOps Tech Leader** at **[SwiftRE](https://www.swissre.com/reinsurance/our-capabilities/property-casualty-re/digital-facultative-swift-re.html)**.
+- 💬 Ask me about **Azure, Terraform, SRE, K8s, Any Nerd/Tech topic...**.
 
 ### Links
 [**GitHub Projects**](https://github.com/alessiofilippin?tab=repositories) <br />Link to my GitHub's repositories. You might find something interesting there.
 <br />
 
 
-[**Microsoft Profile**](https://learn.microsoft.com/en-gb/users/alessiofilippin-9452/transcript/vneri62oll4lozv?source=docs&tab=credentials-tab) <br />List to my MS's Profile and Certifications.
+[**Microsoft Profile**](https://learn.microsoft.com/en-gb/users/alessiofilippin-9452/transcript/vneri62oll4lozv?source=docs&tab=credentials-tab) <br />List to my Official MS's Profile and Certifications.
 <br />
 
 [**Credly Profile**](https://www.credly.com/users/alessio-filippin.bd432726) <br />List of my Credly Certifications.
@@ -32,7 +32,7 @@ I'm most passionate about Cloud Tecnologies ☁️, Software Architecture 👷�
 [**Accredible Profile**](https://www.credential.net/profile/alessiofilippin161307/wallet#gs.bgc33y) <br />List of my Accredible Certifications.
 <br />
 
-[**Legacy Certs**](https://drive.google.com/drive/folders/1sqCII8_DuZlRKsoOFdaYgw6gIRs0qJBG?usp=sharing) <br />List of some old legacy Certifications.
+[**Legacy Certs**](https://drive.google.com/drive/folders/1sqCII8_DuZlRKsoOFdaYgw6gIRs0qJBG?usp=sharing) <br />List of some legacy Certifications.
 <br />
 
 <hr/>
